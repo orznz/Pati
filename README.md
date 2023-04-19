@@ -2,10 +2,10 @@
 
 ## Features
 0. Tested on Redhat/CentOS/AlmaLinux/RockyLinux/Debian/Ubuntu
-1. Onekey install latest trojan-go server
-2. An AriaNg webservice at ( http | https )://yourdomain/aria when trojan-go has been installed
-3. Onekey build and install latest shadowsocks-libev
-4. Onekey install latest shadowsocks-rust
+1. One-click installation of the latest version of Trojan-go server
+2. An AriaNg service will be available at (http|https)://yourdomain/aria after you have installed trojan-go server
+3. One-click compilation and installation of the latest version of Shadowsocks-libev.
+4. One-click installation of the latest version of Shadowsocks-Rust
 ### Usage
 ```
 bash <(curl -sL https://orz.nz/Pati)
